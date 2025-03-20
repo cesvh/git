@@ -3,4 +3,6 @@ Soy la linea dos del archivo lib del path ~/dev/github/git/lib
 PRIMERA LINEA PARA UN RESET SOFT
 SEGUNDA LINEA PARA UN RESET SOFT
 TERCERA LINEA PARA UN RESET SOFT
-
+CUARTA
+QUINTA
+SEXTA

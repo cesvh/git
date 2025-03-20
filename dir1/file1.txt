@@ -3,4 +3,6 @@ Soy la linea dos, del archivo "file1.txt" del path ~/dev/git/dir1/
 PRIMERA LINEA PARA UN RESET SOFT
 SEGUNDA LINEA PARA UN RESET SOFT
 TERCERA LINEA PARA UN RESET SOFT
-
+CUARTA
+QUINTA
+SEXTA
