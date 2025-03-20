@@ -1,0 +1,2 @@
+soy la primera linea del archivo help del path ~/dev/github/git/help
+soy la segunda linea del archivo help del path ~/dev/github/git/help
