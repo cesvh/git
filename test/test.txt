@@ -1,0 +1,2 @@
+soy la primera linea del archivo test del path ~/dev/github/git/test
+soy la segunda linea del archivo test del path ~/dev/github/git/test
